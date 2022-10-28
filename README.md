@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzr-projects
 - 👀 I’m interested in Programming especialy in JAVA and its related technologies
-- 🌱 I’m currently learning more and more to deal with the software architecture nad advanced coding
+- 🌱 I’m currently learning more and more to deal with the software architecture and advanced coding
 - 💞️ I’m looking to collaborate on new awesome projects and technologies
 - 📫 You can reach me on these platforms :
 -   Email : taghipour.maziar@gmail.com 
